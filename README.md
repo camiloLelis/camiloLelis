@@ -5,6 +5,7 @@
 - 💬 Gosto de conversar sobre Java script, Java, Python
 - 😄 Pronomes: Ele/Dele
 
+## Estatística da conta: :basecamp:
 
  
  ### Ferramentas e tecnologias que utilizo:
