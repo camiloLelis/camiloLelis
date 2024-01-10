@@ -1,8 +1,7 @@
-##  Olá! Camilo Lelis ao seu dispor👋
+##  Olá! Camilo Lelis aqui👋
 
-- 🔭 Programador no momento procurando aquela vaga inspiradora...
-- 🌱 Atualmente estou aprendendo Spring-boot(Java)
-- 💬 Gosto de conversar sobre Java script, Java, Python
+- 🔭 Programador web
+- 💬 conversar sobre:Família, Full Stack Developer, futebol
 - 😄 Pronomes: Ele/Dele
 
 ## Estatística da conta: :basecamp:
